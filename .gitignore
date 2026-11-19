@@ -1,0 +1,7 @@
+# Build output
+/build/
+*.o
+*.exe
+
+# Generated PDF summary
+/MEDICODE_Summary.pdf
